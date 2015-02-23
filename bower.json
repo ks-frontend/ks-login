@@ -8,7 +8,7 @@
   "description": "ks-frontend-framework login theme",
   "main": "lib/login.scss",
   "keywords": [
-    "login, styling, ks-login, ks-frontend-framework"
+    "login, styling, css, jquery ks-login, ks-frontend-framework"
   ],
   "license": "MIT",
   "ignore": [

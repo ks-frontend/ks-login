@@ -10,3 +10,7 @@ This library is a theme for a login page.
 ```console
 $ bower install ks-login
 ```
+
+[![Bower version](https://badge.fury.io/bo/ks-login.svg)](http://badge.fury.io/bo/ks-login)
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)

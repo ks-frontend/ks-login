@@ -1,6 +1,6 @@
 {
   "name": "ks-login",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/ks-frontend/ks-login.git",
   "authors": [
     "Khalid Sookia <khalidsookia@gmail.com>"
@@ -20,7 +20,8 @@
     "tests"
   ],
   "dependencies": {
-    "ks-core": "~0.0.1"
+    "ks-core": "~0.0.2",
+    "ks-buttons": "~0.0.3"
   },
   "devDependencies": {
   }
